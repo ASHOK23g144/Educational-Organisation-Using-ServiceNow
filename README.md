@@ -13,10 +13,10 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 
 ## 👥 Team Members/team id : 
 
-- **PRABHU L S** – ServiceNow Developer  
-- **NAVIRKINIYAN** – UI/UX & Form Designer  
-- **PRAVEEN RAJ** – Client Scripts & Table Developer  
-- **RADIKA** – Testing & Documentation
+- **ASHOK P** – ServiceNow Developer and Demo video and Deployment
+- **DHANUSH M** – UI/UX & Form Designer  
+- **DEEPAK M** – Client Scripts & Table Developer  
+- **DINESH T** – Testing & Documentation
 ---
 
 ## 📌 Overview
