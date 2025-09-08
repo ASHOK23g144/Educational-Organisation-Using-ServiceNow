@@ -7,7 +7,7 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ## 🎬 Demo
 
 📺 **Watch Demo:**  
-[🔗 Click to View on Google Drive]()
+[🔗 Click to View on Google Drive](https://drive.google.com/file/d/1dFDx032dkQywMqGzrNqL88FQvA3s0aqe/view?usp=drive_link)
 
 ---
 
@@ -16,7 +16,7 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 - **ASHOK P** – ServiceNow Developer and Demo video and Deployment
 - **DHANUSH M** – UI/UX & Form Designer  
 - **DEEPAK M** – Client Scripts & Table Developer  
-- **DINESH T** – Testing & Documentation
+- **DINESH K** – Testing & Documentation
 ---
 
 ## 📌 Overview
