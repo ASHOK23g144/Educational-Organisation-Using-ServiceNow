@@ -7,7 +7,7 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ## 🎬 Demo
 
 📺 **Watch Demo:**  
-[🔗 Click to View on Google Drive([(https://drive.google.com/file/d/1Esh3ECeoBs8YxVsBFo9p2N9ACx0eZ4AU/view?usp=drivesdk)])]
+[🔗 Click to View on Google Drive](https://drive.google.com/file/d/1Esh3ECeoBs8YxVsBFo9p2N9ACx0eZ4AU/view?usp=drivesdk)
 
 ---
 
