@@ -22,7 +22,7 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ## 📌 Overview
 
 ### 🎯 Purpose  
-To digitize and streamline educational workflows using ServiceNow’s low-code platform — enabling faster data handling, reduced manual work, and improved accessibility.
+To digitize and streamline educational workflows using ServiceNow’s low-cod platform — enabling faster data handling, reduced manual work, and impr
 
 ### ✨ Key Features
 
